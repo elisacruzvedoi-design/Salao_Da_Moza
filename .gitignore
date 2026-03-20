@@ -1,0 +1,5 @@
+echo node_modules/ >> .gitignore
+echo .expo/ >> .gitignore
+
+node_modules/
+.expo/

@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "cadastro-clientes",
+    "slug": "cadastro-clientes",
+    "scheme": "cadastro-clientes",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
